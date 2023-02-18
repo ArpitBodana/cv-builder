@@ -1,0 +1,19 @@
+select {
+  height: 40px;
+  padding: 5px;
+  border-radius: 0.375rem;
+}
+
+.isinvalid {
+  border: 1px solid #dc3545;
+}
+
+label,
+h6 {
+  color: azure;
+  margin-bottom: 10px;
+}
+
+.present{
+  margin-top: 20px;
+}
