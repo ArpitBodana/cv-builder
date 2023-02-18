@@ -223,8 +223,8 @@ export class MainComponent implements OnInit {
   }
 
   public class = ['PCM', 'PCB', 'COMMERCE', 'ARTS'];
-  public graduate = ["B.Sc", "B.E.", "B.TECH", "B.Com", "B.A.", "BBA"]
-  public postGraduate = ["M.SC", "M.E.", "M.TECH", "M.Com", "M.A.", "MBA"]
+  public graduate = ["B.Sc", "B.E.", "B.TECH", "B.Com", "B.A.", "BBA","BCA"]
+  public postGraduate = ["M.SC", "M.E.", "M.TECH", "M.Com", "M.A.", "MBA","MCA"]
 
 
   submitForm() {
